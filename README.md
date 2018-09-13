@@ -26,3 +26,7 @@ A small library that adds commas to numbers
 ## Contributing
 
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
+
+## Help
+published with help of article
+https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738
