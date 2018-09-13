@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CodeSnooker/number-formatter.svg?branch=master)](https://travis-ci.org/CodeSnooker/number-formatter)     [![Coverage Status](https://coveralls.io/repos/github/CodeSnooker/number-formatter/badge.svg)](https://coveralls.io/github/CodeSnooker/number-formatter)
+
 Number Formatter
 =========
 
